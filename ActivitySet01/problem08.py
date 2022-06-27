@@ -1,5 +1,5 @@
 
-filename = "mbox-short.txt"
+filename="ActivitySet01/File.txt"
 fname = input("Enter file name: ")
 fh = open(fname)
 count=0
